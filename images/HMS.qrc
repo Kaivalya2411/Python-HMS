@@ -1,0 +1,55 @@
+<RCC>
+  <qresource prefix="newPrefix1">
+    <file>Login.jpg</file>
+    <file>Register.jpg</file>
+    <file>MainWindowBG2.png</file>
+    <file>MainWindowBG.png</file>
+  </qresource>
+  <qresource prefix="newPrefix5">
+    <file>Patient3.png</file>
+    <file>Patient1.png</file>
+    <file>Pharmacy Admin.jpg</file>
+    <file>Management.jpg</file>
+    <file>Admin2.png</file>
+    <file>Appointment1.jpg</file>
+    <file>Appointment2.jpg</file>
+    <file>Appointment3.jpg</file>
+    <file>database4.png</file>
+    <file>Hospital2.png</file>
+    <file>Patient2.png</file>
+    <file>Admin2.png</file>
+    <file>Admin.png</file>
+    <file>Pharmacy2.png.jpg</file>
+    <file>database1.png</file>
+    <file>database2.png</file>
+    <file>database3.png</file>
+    <file>Pharmacy.jpg</file>
+    <file>docter_1.png</file>
+    <file>Docter_2.png</file>
+    <file>pharmacist.png</file>
+  </qresource>
+  <qresource prefix="newPrefix4">
+    <file>COVID-19-ICON.png</file>
+    <file>mvabtn.PNG</file>
+    <file>Patient4.png</file>
+    <file>mvdbtn.PNG</file>
+    <file>mvpbtn.PNG</file>
+    <file>mvprbtn.PNG</file>
+    <file>ThankYou.png</file>
+    <file>icon.png</file>
+  </qresource>
+  <qresource prefix="newPrefix3">
+    <file>mvabtn.PNG</file>
+    <file>mvdbtn.PNG</file>
+    <file>mvpbtn.PNG</file>
+    <file>mvprbtn.PNG</file>
+    <file>register.png</file>
+  </qresource>
+  <qresource prefix="newPrefix2">
+    <file>doctor.jpg</file>
+    <file>pharma1.jpg</file>
+    <file>pharma2.jpg</file>
+    <file>login.png</file>
+    <file>signup.jpg</file>
+  </qresource>
+</RCC>
